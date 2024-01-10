@@ -1,0 +1,28 @@
+# Archivos de entorno virtual
+venv/
+env/
+*.env
+
+# Archivos de caché y compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs y archivos generados
+*.log
+logs/
+
+# Archivos de configuración local
+*.ini
+*.cfg
+
+# Archivos de dependencias
+pip-log.txt
+pip-wheel-metadata/
+
+# Otros archivos
+.DS_Store
+
+credentials.json
+```
