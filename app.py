@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- 
+
 from flask import Flask, request, jsonify
 import gspread
 from google.oauth2.service_account import Credentials
