@@ -52,5 +52,5 @@ def webhook():
     
     return jsonify(row), 200
 
-def run_app():
+def run_app(arg1, arg2):
     return app
